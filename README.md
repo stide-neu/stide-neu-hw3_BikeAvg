@@ -1,23 +1,6 @@
-# hw3_BasicOp
-## Variable declaration :
+# hw3_BikeAvg
+## Write a C program to:calculate a bike’s average consumption (litters/100km) from the given total distance (integer value) traveled (in km) and spent fuel (in liters, float number – 2 decimal point)
+Input : 500 34.5
+Output : 6.9
 
-int a = 125, 
-
-b = 12345;
-
-long ax = 1234567890;
-
-short s = 4043;
-
-float x = 2.13459;
-
-double dx = 1.1415927;
-
-char c = 'W';
-
-unsigned long ux = 2541567890;
-
-
-## Write a C program to display:
-
-a + c, x + c, dx + x, ((int) dx) + ax, a + x, s + b, ax + b, s + c, ax + c, ax + ux
+![image](https://user-images.githubusercontent.com/33346418/230295004-ed4404e1-608c-4b31-b8e8-b0a2e500c31c.png)
